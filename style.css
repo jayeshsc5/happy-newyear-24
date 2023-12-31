@@ -85,12 +85,12 @@ body {
 
 @media screen and (max-width: 768px) {
 #message {
-        font-size: 10px;
+        font-size: 12px;
         max-width: fit-content;
         justify-content: center;
     }
     #countdown {
-        font-size: 18px;
+        font-size: 20px;
         max-width: fit-content;
         justify-content: center;
     }
@@ -104,11 +104,11 @@ body {
     }
 
     #newYearMessage h3 {
-        font-size: 16px;
+        font-size: 20px;
     }
 
     #newYearMessage p {
-        font-size: 14px;
+        font-size: 18px;
     }
 }
 #profile-photo-container {
