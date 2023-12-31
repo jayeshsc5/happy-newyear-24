@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
   
         // Display the countdown
         document.getElementById("countdown").innerHTML =
-          days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+          "Message 💌 incoming in "+ hours + "h " + minutes + "m " + seconds + "s ";
       }
     }, 1000);
   });
